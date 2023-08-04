@@ -1,3 +1,4 @@
+//second time
 class Solution {
     public boolean wordBreak(String s, List<String> wordDict) {
         boolean[] table = new boolean[s.length()];
